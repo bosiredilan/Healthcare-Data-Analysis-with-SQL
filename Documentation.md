@@ -44,6 +44,7 @@ healthcare-sql-analysis/
 ├── README.md
 └── .gitignore
 ```
+
 ⚙️ Technical Highlights
 
 Advanced SQL techniques including window functions, CTEs, and subqueries
