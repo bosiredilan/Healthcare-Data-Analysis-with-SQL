@@ -25,7 +25,7 @@ Insurance Coverage Insights: Evaluation of procedures covered by insurance throu
 🛡️ Insurance Coverage: Not all procedures are covered by insurance, impacting patient out-of-pocket costs and access to care
 
 🏗️ Project Structure
-healthcare-sql-analysis/
+```healthcare-sql-analysis/
 │
 ├── data/
 │   ├── encounters.csv
@@ -42,7 +42,7 @@ healthcare-sql-analysis/
 │
 ├── README.md
 └── .gitignore
-
+```
 ⚙️ Technical Highlights
 
 Advanced SQL techniques including window functions, CTEs, and subqueries
